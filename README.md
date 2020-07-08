@@ -1,6 +1,6 @@
 # House Prices: Advanced Regression Techniques
 
-This is a kaggle compedition https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+This is a kaggle competition https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 Description: A dataset of Housing Prices of residential homes in Ames, Iowa which includes 79 explanatory variables describing (almost) every aspect of the house is provided. Objective is to use the above dataset to train a machine-learning model to predict the price of unknown houses.
 
